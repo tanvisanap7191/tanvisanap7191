@@ -2,7 +2,7 @@
 
 🎓 3rd Year B.Tech Computer Science & Engineering Student
 
-##👩‍💻 About Me
+## 👩‍💻 About Me
 - 🎓 3rd Year B.Tech CSE student
 - 💡 Passionate about coding and problem-solving
 - 🌱 Exploring GitHub
